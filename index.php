@@ -37,6 +37,10 @@ $start = time(); ?>
 			font-family: arial, sans-serif;
 			border-collapse: collapse;
 			width: 100%;
+			margin-bottom: 1rem;
+		}
+		h1 {
+			margin-bottom: 1rem;
 		}
 		td, th {
 			border: 1px solid #dddddd;
